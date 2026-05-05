@@ -1,6 +1,6 @@
 # 🎙️ Assistente Virtual de Voz com IA (Whisper + Gemini + gTTS)
 
-**🔗 Acesso Rápido:** [![Open In Colab]([https://colab.research.google.com/drive/1tZjTPpG04qu4RY5gQU7bpsKNxq34Anw3?usp=sharing])
+**🔗 Acesso Rápido:** [![Open In Colab](https://colab.research.google.com/drive/1tZjTPpG04qu4RY5gQU7bpsKNxq34Anw3?usp=sharing])
 
 ---
 
